@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkımızda</title>
+    <link href="ödevv.css" rel="stylesheet" type="text/css">
+</head>
+<body><div style="border-color: rgb(88, 143, 143); border-style: dotted; border-radius: 45px;">
+    <h1 style="text-align: center;" class="a1">MÜZİK DÜKKANIM</h1>
+    <div class="melike"> 
+    <a  class="a2" href="ödevke.html">Anasayfa</a>
+    <a  class="a3" href="hakkımızda.html">Hakkımızda</a>
+    <a  class="a4" href="ürünlerimiz.html" >Ürünlerimiz</a> 
+    </div>
+    <div>
+    <h2 style="text-align: center;">Hakkımızda</h2></div>
+    <div>
+        <p style="text-align: center;"> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Quidem ab perferendis ducimus non quam nam dolorum quaerat
+            reiciendis labore, odio repellendus laudantium tempore esse
+            dicta asperiores, earum inventore autem. Suscipit!</p>
+            <h3 style="color:  rgb(88, 151, 151); ">Vizyonumuz</h3>
+            <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                Ut nemo natus ipsum nesciunt ratione optio recusandae,
+                nobis quo commodi, beatae accusamus labore quis error
+                nihil velit reprehenderit maiores, ducimus voluptas!</p>
+                <h3 style="color: rgb(88, 151, 151);">Misyonumuz</h3>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                    Ratione quaerat cupiditate sequi sapiente at error porro
+                    mollitia deserunt. Exercitationem repellat at veniam
+                    consectetur perspiciatis neque facilis repellendus
+                    dolorem doloribus ipsam.</p>
+    </div>
+</div>
+    
+</body>
+</html>

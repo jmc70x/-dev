@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kodluyoruz html</title>
+    <link href="ödevv.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <h1 class="a1">MÜZİK DÜKKANIM</h1>
+    <div class="melike"> 
+    <a  href="ödevke.html">Anasayfa</a>
+    <a  href="hakkımızda.html">Hakkımızda</a>
+    <a  href="ürünlerimiz.html" >Ürünlerimiz</a> 
+    <h2 style="text-align: center;">Anasayfa</h2>
+    </div>
+    <div style="border-style: dotted; border-color:  rgb(88, 151, 151);">
+        <p style="text-align: center;"> Müzik Dükkanım sitemize hoş geldiniz! Bu sitede çeşitli müzik aletlerini bulabilirsiniz. Buradan <a href="ürünlerimiz.html" >ürünlerimize</a>
+         ulaşabilirsiniz.  </p>
+         <h3 style="text-align: center;">Sitemizde Bulunan Müzik Aletleri:</h3>
+         <ul style="text-align: center; ">
+            <li>Davul</li>
+            <li>Gitar</li>
+            <li>Piyano</li>
+         </ul>
+    </div>
+
+
+</body>
+</html>
